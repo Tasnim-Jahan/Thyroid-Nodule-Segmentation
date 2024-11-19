@@ -14,7 +14,9 @@ Image segmentation is a critical task in computer vision, particularly in medica
 * Data Preprocessing and Augmentation: Uses albumentations for advanced image and mask augmentation.
 
 * Model Architectures:
+  
    ** Baseline U-Net
+  
    ** U-Net with VGG16, VGG19, ResNet50, and MobileNetV2 as encoders.
 
 * Custom Loss Functions:
