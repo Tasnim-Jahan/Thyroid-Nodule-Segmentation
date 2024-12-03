@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation
+# Thyroid-Nodule-Segmentation
 
 **Comparative Analysis of U-Net and Pretrained Encoder Models for Image Segmentation**
 This repository contains a complete pipeline for image segmentation using the U-Net architecture and its variations with pretrained backbones such as VGG16, VGG19, ResNet50, and MobileNetV2. The project focuses on evaluating the performance of these models on a medical imaging dataset, leveraging deep learning for precise segmentation tasks.
