@@ -1,4 +1,4 @@
-# Thyroid-Nodule-Segmentation
+# Brain-Tumor-Segmentation
 
 **Comparative Analysis of U-Net and Pretrained Encoder Models for Image Segmentation**
 
@@ -54,8 +54,8 @@ Image segmentation is a critical task in computer vision, particularly in medica
 
 The project uses a medical imaging dataset structured into training, validation, and test sets. The dataset must contain:
 
-- **Images** in directories like `trainval-image` and `test-image`
-- **Corresponding masks** in `trainval-mask` and `test-mask`
+- **Images** in directories like `images`
+- **Corresponding masks** in `masks`
 
 ---
 
