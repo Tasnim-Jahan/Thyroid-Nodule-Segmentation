@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation
+# Brain Tumor Segmentation
 
 **Comparative Analysis of U-Net and Pretrained Encoder Models for Image Segmentation**
 
